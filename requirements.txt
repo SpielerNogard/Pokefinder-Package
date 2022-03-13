@@ -1,0 +1,2 @@
+paho-mqtt==1.6.1
+-e git+https://github.com/SpielerNogard/Pokefinder-Package.git@0b8ad987e1c318b6b338acf2fc0674d54216e0ac#egg=Pokefinder
