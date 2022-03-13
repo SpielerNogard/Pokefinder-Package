@@ -1,5 +1,9 @@
 # Pokefinder Changelog
 
+# Version: 0.0.3
+- added functions to send health signals to mqtt
+- added `HealthChecker` class in `pokefinder.health.health_checker`
+
 # Version: 0.0.2
 - added the possibility to interact with MQTT
 - added `MQTTBroker` in `pokefinder.mqtt.mqtt_broker`
